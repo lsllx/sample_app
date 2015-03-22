@@ -1,0 +1,2 @@
+require '123'
+def init
